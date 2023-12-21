@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>ECOMMERSHA3</title>
+	<title>HEALTHCAREMASTER</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Fri, 19 Feb 2021 14:33:02 +0000</lastBuildDate>
+	<description>Alta formazione per la ricerca</description>
+	<lastBuildDate>Jan 2024 14:33:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
